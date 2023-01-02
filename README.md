@@ -6,5 +6,8 @@
 
 ![Samyak Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj-Thombare&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rakaa&layout=compact&hide=Text&theme=radical&custom_title=Development%20in%20last%207%20days&hide_border=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rakaa)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rakaa&layout=compact&hide=Text&theme=radical&custom_title=Development%20in%20last%207%20days&hide_border=true) -->
 
