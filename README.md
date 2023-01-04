@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Raj-Thombare&color=000000)
+<!-- ![](https://komarev.com/ghpvc/?username=Raj-Thombare&color=000000) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raj-Thombare&theme=radical&hide_border=true)
 
