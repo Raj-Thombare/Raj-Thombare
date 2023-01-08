@@ -9,5 +9,5 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rakaa&layout=compact&hide=Text&theme=radical&custom_title=Development%20in%20last%207%20days&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rakaa&layout=compact&hide=Text&theme=radical&custom_title=Development%20in%20last%207%20days&hide_border=true) -->
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rakaa&layout=compact&hide=Text&theme=radical&custom_title=Development%20in%20last%207%20days&hide_border=true) -->
 
